@@ -8,3 +8,6 @@ its really not that bad. Look through some of the resources, and I'm sure you'll
 begin to feel better.
 
 Congratulations on becoming a Gopher.
+
+Libraries and Resources:
+https://github.com/avelino/awesome-go
